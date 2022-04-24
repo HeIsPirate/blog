@@ -141,3 +141,11 @@ Affect(class count: 1 , method count: 1) cost in 112 ms, listenerId: 1
 ### 解决问题
 
 同
+
+## 参考
+
+- [1] [JVM 内存分析工具 MAT 的深度讲解与实践——入门篇](https://juejin.cn/post/6908665391136899079#heading-7)
+- [2] [JVM 内存分析工具 MAT 的深度讲解与实践——进阶篇](https://juejin.cn/post/6911624328472133646#heading-3)
+- [3] [线上java程序CPU占用过高问题排查](https://blog.csdn.net/u010862794/article/details/78020231)
+- [4] [记一次java程序CPU占用过高问题排查](https://blog.csdn.net/puhaiyang/article/details/78663942)
+- [5] [定位CPU异常抖动---tomcat热部署的坑](https://blog.csdn.net/u010862794/article/details/80104571)
